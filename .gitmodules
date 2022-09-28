@@ -1,0 +1,3 @@
+[submodule "bevin_pcb_library"]
+	path = bevin_pcb_library
+	url = https://github.com/bevin-kbds/bevin_pcb_library
