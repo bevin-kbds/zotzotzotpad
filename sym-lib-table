@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name "parts")(type "Legacy")(uri "D:/Repositories/bevin_pcb_library/Symbols/random-keyboard-parts.lib")(options "")(descr ""))
-  (lib (name "mx")(type "Legacy")(uri "D:/Repositories/bevin_pcb_library/Symbols/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "parts")(type "Legacy")(uri "D:/Repositories/zotzotzotpad/bevin_pcb_library/Symbols/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "mx")(type "Legacy")(uri "D:/Repositories/zotzotzotpad/bevin_pcb_library/Symbols/MX_Alps_Hybrid.lib")(options "")(descr ""))
 )
