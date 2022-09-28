@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "bevin")(type "KiCad")(uri "D:/Repositories/bevin_pcb_library/Footprints/bevin.pretty")(options "")(descr ""))
+  (lib (name "misc")(type "KiCad")(uri "D:/Repositories/bevin_pcb_library/Footprints/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "art")(type "KiCad")(uri "D:/Repositories/bevin_pcb_library/Footprints/art.pretty")(options "")(descr ""))
+)
