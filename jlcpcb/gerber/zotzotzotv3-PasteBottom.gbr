@@ -1,15 +1,86 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.1)*%
-%TF.CreationDate,2022-09-21T23:34:08-07:00*%
-%TF.ProjectId,zotzotzotv2,7a6f747a-6f74-47a6-9f74-76322e6b6963,rev?*%
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.8)*%
+%TF.CreationDate,2022-10-26T00:32:36-07:00*%
+%TF.ProjectId,zotzotzotv3,7a6f747a-6f74-47a6-9f74-76332e6b6963,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.1)) date 2022-09-21 23:34:08*
+G04 Created by KiCad (PCBNEW (6.0.8)) date 2022-10-26 00:32:36*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMRoundRect*
+0 Rectangle with rounded corners*
+0 $1 Rounding radius*
+0 $2 $3 $4 $5 $6 $7 $8 $9 X,Y pos of 4 corners*
+0 Add a 4 corners polygon primitive as box body*
+4,1,4,$2,$3,$4,$5,$6,$7,$8,$9,$2,$3,0*
+0 Add four circle primitives for the rounded corners*
+1,1,$1+$1,$2,$3*
+1,1,$1+$1,$4,$5*
+1,1,$1+$1,$6,$7*
+1,1,$1+$1,$8,$9*
+0 Add four rect primitives between the rounded corners*
+20,1,$1+$1,$2,$3,$4,$5,0*
+20,1,$1+$1,$4,$5,$6,$7,0*
+20,1,$1+$1,$6,$7,$8,$9,0*
+20,1,$1+$1,$8,$9,$2,$3,0*%
+G04 Aperture macros list end*
+%ADD10R,1.700000X1.000000*%
+%ADD11R,1.200000X0.900000*%
+%ADD12RoundRect,0.250000X-0.262500X-0.450000X0.262500X-0.450000X0.262500X0.450000X-0.262500X0.450000X0*%
 G04 APERTURE END LIST*
+D10*
+%TO.C,SW1*%
+X-10637558Y-4511250D03*
+X-4337558Y-4511250D03*
+X-4337558Y-8311250D03*
+X-10637558Y-8311250D03*
+%TD*%
+D11*
+%TO.C,D5*%
+X29362024Y-4431250D03*
+X29362024Y-1131250D03*
+%TD*%
+%TO.C,D7*%
+X10312024Y-23481250D03*
+X10312024Y-20181250D03*
+%TD*%
+%TO.C,D4*%
+X10312024Y-4431250D03*
+X10312024Y-1131250D03*
+%TD*%
+D12*
+%TO.C,R1*%
+X-14400058Y-8681250D03*
+X-12575058Y-8681250D03*
+%TD*%
+D11*
+%TO.C,D9*%
+X48412024Y-23481250D03*
+X48412024Y-20181250D03*
+%TD*%
+%TO.C,D1*%
+X10312024Y14618750D03*
+X10312024Y17918750D03*
+%TD*%
+%TO.C,D6*%
+X48412024Y-4431250D03*
+X48412024Y-1131250D03*
+%TD*%
+%TO.C,D2*%
+X29362024Y14618750D03*
+X29362024Y17918750D03*
+%TD*%
+%TO.C,D8*%
+X29362024Y-23481250D03*
+X29362024Y-20181250D03*
+%TD*%
+%TO.C,D3*%
+X48412024Y14618750D03*
+X48412024Y17918750D03*
+%TD*%
 M02*
