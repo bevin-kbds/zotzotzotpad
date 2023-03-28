@@ -1,4 +1,4 @@
--9202726786019966382
+-9202721746113259178
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86387,6 +86387,20 @@ SMD SMT crystal
 4
 4
 bevin
+D3_TH
+Resitance 3 pas
+R
+0
+4
+2
+bevin
+D3_TH_nonHybrid
+Resitance 3 pas
+R
+0
+2
+2
+bevin
 D_SOD-123-Pretty
 SOD-123
 SOD-123
@@ -86561,6 +86575,13 @@ ProMicro_v3
 0
 24
 24
+bevin
+R3_TH_nonHybrid
+Resitance 3 pas
+R
+0
+2
+2
 bevin
 SK6812-MINI-E
 

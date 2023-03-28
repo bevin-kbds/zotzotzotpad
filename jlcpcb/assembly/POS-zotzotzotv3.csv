@@ -1,13 +1,13 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-D1,D_Small,D_SOD-123-Pretty,10.312024,16.26875,90.0,bottom
-D2,D_Small,D_SOD-123-Pretty,29.362024,16.26875,90.0,bottom
-D3,D_Small,D_SOD-123-Pretty,48.412024,16.26875,90.0,bottom
-D4,D_Small,D_SOD-123-Pretty,10.312024,-2.78125,90.0,bottom
-D5,D_Small,D_SOD-123-Pretty,29.362024,-2.78125,90.0,bottom
-D6,D_Small,D_SOD-123-Pretty,48.412024,-2.78125,90.0,bottom
-D7,D_Small,D_SOD-123-Pretty,10.312024,-21.83125,90.0,bottom
-D8,D_Small,D_SOD-123-Pretty,29.362024,-21.83125,90.0,bottom
-D9,D_Small,D_SOD-123-Pretty,48.412024,-21.83125,90.0,bottom
+D1,D_Small,D3_TH_nonHybrid,10.312024,14.91875,90.0,top
+D2,D_Small,D3_TH_nonHybrid,29.362024,14.91875,90.0,top
+D3,D_Small,D3_TH_nonHybrid,48.412024,14.91875,90.0,top
+D4,D_Small,D3_TH_nonHybrid,10.312024,-4.13125,90.0,top
+D5,D_Small,D3_TH_nonHybrid,29.362024,-4.13125,90.0,top
+D6,D_Small,D3_TH_nonHybrid,48.412024,-4.13125,90.0,top
+D7,D_Small,D3_TH_nonHybrid,10.312024,-23.18125,90.0,top
+D8,D_Small,D3_TH_nonHybrid,29.362024,-23.18125,90.0,top
+D9,D_Small,D3_TH_nonHybrid,48.412024,-23.18125,90.0,top
 J1,OLED,OLED_v2,-7.487558,-10.88125,0.0,top
 MX1,MX-NoLED,MXOnly-1U-NoLED,13.412024,19.55,0.0,top
 MX2,MX-NoLED,MXOnly-1U-NoLED,13.412024,0.5,0.0,top
@@ -18,6 +18,6 @@ MX6,MX-NoLED,MXOnly-1U-NoLED,32.462024,-18.55,0.0,top
 MX7,MX-NoLED,MXOnly-1U-NoLED,51.512024,19.55,0.0,top
 MX8,MX-NoLED,MXOnly-1U-NoLED,51.512024,0.5,0.0,top
 MX9,MX-NoLED,MXOnly-1U-NoLED,51.512024,-18.55,0.0,top
-R1,10k,R_0805_2012Metric,-13.487558,-8.68125,0.0,bottom
+R1,10k,R3_TH_nonHybrid,-15.087558,-11.27125,90.0,top
 SW1,SW_Push,SW_SPST_TL3342,-7.487558,-6.41125,0.0,bottom
 U1,ProMicro,ProMicro_v3,-7.487558,8.41875,0.0,top
