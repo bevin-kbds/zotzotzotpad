@@ -1706,7 +1706,7 @@
   (symbol (lib_id "Jumper:Jumper_2_Open") (at 248.92 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a4c41e56-d0e3-4c41-87f8-b59ed02daca9)
-    (property "Reference" "JP1" (id 0) (at 248.92 59.69 0))
+    (property "Reference" "RESET" (id 0) (at 248.92 59.69 0))
     (property "Value" "Jumper_2_Open" (id 1) (at 248.92 62.23 0))
     (property "Footprint" "" (id 2) (at 248.92 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -1925,9 +1925,6 @@
     (path "/61270030-3c79-4c1e-b0f0-d682ff598773"
       (reference "J1") (unit 1) (value "OLED") (footprint "bevin:OLED_v2")
     )
-    (path "/a4c41e56-d0e3-4c41-87f8-b59ed02daca9"
-      (reference "JP1") (unit 1) (value "Jumper_2_Open") (footprint "TestPoint:TestPoint_2Pads_Pitch5.08mm_Drill1.3mm")
-    )
     (path "/1ad52a9a-40b1-4524-ab02-0871e513e91e"
       (reference "MX1") (unit 1) (value "MX-NoLED") (footprint "bevin:MXOnly-1U-NoLED")
     )
@@ -1957,6 +1954,9 @@
     )
     (path "/03a04b22-3c27-492b-b0e1-8d6cb5563c9a"
       (reference "R1") (unit 1) (value "10k") (footprint "bevin:R3_TH_nonHybrid")
+    )
+    (path "/a4c41e56-d0e3-4c41-87f8-b59ed02daca9"
+      (reference "RESET") (unit 1) (value "Jumper_2_Open") (footprint "TestPoint:TestPoint_2Pads_Pitch5.08mm_Drill1.3mm")
     )
     (path "/0fe9ee7c-30e6-43bc-84ab-3c752b95af67"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_TL3342")
